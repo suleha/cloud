@@ -1,5 +1,5 @@
 <?php 
-	echo "Nama : Suleha";
-	echo "STB : 182184";
+	echo "Nama : Suleha<br>";
+	echo "STB : 182184<br>";
 	echo "Kelas : E";
 ?>
